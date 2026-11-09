@@ -18,25 +18,13 @@
 
 ---
 
-## A little about me
+I started as a junior frontend developer and grew into full-stack development. At Zeeve, I bring a frontend-first perspective to product interfaces, application services, and Web3 market systems.
 
-I started out as a junior frontend developer and grew into full-stack development. Today, I contribute across product interfaces, backend services, and the systems that bring Web3 market experiences together.
+## What I bring
 
-My frontend background shapes how I approach the whole product: start with the user experience, then follow the problem through the APIs and services behind it.
-
-## What I work on
-
-### Product experiences
-
-Building and refining consumer and admin workflows—from event discovery and prediction flows to onboarding and operational tools.
-
-### Application services
-
-Contributing to TypeScript APIs and product services, including identity and integration flows, background jobs, and real-time features.
-
-### Market systems
-
-Working across live ranking, settlement, and validation services that connect market activity to reliable outcomes.
+- **Product interfaces:** I build consumer and admin experiences, from event discovery and onboarding to operational workflows.
+- **Cross-layer delivery:** I connect React and Next.js interfaces with TypeScript APIs, integrations, background jobs, and real-time features.
+- **Web3 market systems:** I contribute across ranking, settlement, and validation services that support end-to-end market experiences.
 
 ## Technologies
 
