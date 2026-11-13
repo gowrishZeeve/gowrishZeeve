@@ -20,11 +20,13 @@
 
 I started as a junior frontend developer and grew into full-stack development. At Zeeve, I bring a frontend-first perspective to product interfaces, application services, and Web3 market systems.
 
-## What I bring
+## Work across products
 
-- **Product interfaces:** I build consumer and admin experiences, from event discovery and onboarding to operational workflows.
-- **Cross-layer delivery:** I connect React and Next.js interfaces with TypeScript APIs, integrations, background jobs, and real-time features.
-- **Web3 market systems:** I contribute across ranking, settlement, and validation services that support end-to-end market experiences.
+- **Web3 marketplace systems:** I work across market experiences and supporting services, including event discovery, live rankings, and reliable settlement.
+- **Blockchain platforms & node deployment:** I contribute to platform experiences and deployment workflows that help teams configure and operate blockchain nodes.
+- **Multi-chain protocol integrations:** I build frontend integrations that connect applications with protocols, wallets, and network flows across multiple chains.
+- **Reusable frontend & UI systems:** I create reusable components and interface patterns that help teams deliver consistent, maintainable product experiences.
+- **Financial & operational products:** I develop workflows for financial and operational use cases, connecting clear interfaces with dependable application services.
 
 ## Technologies
 
