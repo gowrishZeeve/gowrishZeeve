@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Frontend craft, full-stack thinking" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg" />
+  <img src="./assets/profile-banner.svg" alt="Frontend craft, full-stack thinking" width="100%" />
+</picture>
 
 <br />
 
@@ -55,6 +58,8 @@ I started as a junior frontend developer and grew into full-stack development. A
 
 <div align="center">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/activity-stats-dark-mobile.svg" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/activity-stats-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/activity-stats-light.svg" />
     <img src="./assets/activity-stats-dark.svg" alt="GitHub contribution count and streak statistics for Gowrish Zeeve" width="100%" />

@@ -1,48 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">Frontend craft, full-stack thinking</title>
-  <desc id="description">A dark, understated technology banner with green accents and connected geometric shapes.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101820" />
-      <stop offset="0.58" stop-color="#14252b" />
-      <stop offset="1" stop-color="#111a24" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#55d187" />
-      <stop offset="1" stop-color="#42d7bd" />
-    </linearGradient>
-    <radialGradient id="glow" cx="1" cy="0" r="1">
-      <stop offset="0" stop-color="#45d392" stop-opacity="0.22" />
-      <stop offset="1" stop-color="#45d392" stop-opacity="0" />
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1" />
-    </pattern>
-  </defs>
+  <desc id="description">A typeset field record pairing Gowrish's frontend-to-full-stack story with five areas of product engineering work.</desc>
+  <rect width="1200" height="300" fill="#17241D" />
 
-  <rect width="1200" height="300" rx="24" fill="url(#background)" />
-  <rect width="1200" height="300" rx="24" fill="url(#grid)" />
-  <ellipse cx="1040" cy="28" rx="390" ry="260" fill="url(#glow)" />
+  <text x="64" y="119" fill="#F2F0E7" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700" letter-spacing="-0.8">FULL-STACK THINKING</text>
+  <text x="68" y="157" fill="#63C8AC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">FRONTEND CRAFT</text>
+  <text x="68" y="196" fill="#D6D8C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Product experiences · APIs · Web3 systems</text>
 
-  <g fill="none" stroke="url(#accent)" stroke-opacity="0.5" stroke-width="2">
-    <path d="M 810 74 H 920 L 968 122 H 1092" />
-    <path d="M 844 222 H 934 L 986 170 H 1145" />
-    <path d="M 1000 66 V 100 L 1034 134 V 203" />
-    <path d="M 1126 90 V 126 L 1088 164 V 216" />
-  </g>
-  <g fill="#55d187">
-    <circle cx="810" cy="74" r="5" />
-    <circle cx="1092" cy="122" r="5" />
-    <circle cx="844" cy="222" r="5" />
-    <circle cx="1145" cy="170" r="5" />
-    <circle cx="1000" cy="66" r="5" />
-    <circle cx="1034" cy="203" r="5" />
-    <circle cx="1126" cy="90" r="5" />
-    <circle cx="1088" cy="216" r="5" />
-  </g>
+  <line x1="694" y1="46" x2="694" y2="254" stroke="#728176" stroke-opacity="0.55" />
+  <text x="736" y="57" fill="#82D5A2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">WORK ACROSS PRODUCTS</text>
+  <line x1="736" y1="74" x2="1140" y2="74" stroke="#728176" stroke-opacity="0.55" />
 
-  <rect x="72" y="63" width="5" height="174" rx="2.5" fill="url(#accent)" />
-  <text x="104" y="123" fill="#f3f7f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">FRONTEND CRAFT</text>
-  <text x="104" y="178" fill="#f3f7f5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.5">FULL-STACK THINKING</text>
-  <text x="106" y="215" fill="#b8c8c5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="0.2">Product experiences · APIs · Web3 systems</text>
+  <text x="736" y="105" fill="#F2F0E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Web3 marketplace systems</text>
+  <text x="736" y="139" fill="#F2F0E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Blockchain platforms &amp; node deployment</text>
+  <text x="736" y="173" fill="#F2F0E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Multi-chain protocol integrations</text>
+  <text x="736" y="207" fill="#F2F0E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Reusable frontend &amp; UI systems</text>
+  <text x="736" y="241" fill="#F2F0E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Financial &amp; operational products</text>
 </svg>
